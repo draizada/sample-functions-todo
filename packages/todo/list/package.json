@@ -1,11 +1,11 @@
 {
-  "name": "name",
-  "description": "description",
-  "authors": "author",
-  "version": "1.0.0",
-  "main": "index.js",
-  "dependencies": {
-    "mongodb": "^3.6.9",
-    "http-status-codes": "^2.2.0"
-  }
+    "name": "serverless-list",
+    "description": "List all todo records",
+    "authors": "Deepankar",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "mongodb" : "^3.6.9",
+        "http-status-codes":"^2.2.0"
+    }
 }
